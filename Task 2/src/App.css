@@ -1,0 +1,26 @@
+.column {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: center;
+}
+.view-button {
+  width: 200px;
+}
+
+.resume {
+  width: 100%;
+  height: 650px;
+}
+
+
+.section {
+  width: 100%;
+  margin-top: 100px;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
